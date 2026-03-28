@@ -23,6 +23,7 @@ Competitor comparison
 Drill-through analysis
 
 ⚙️ Tools & Technologies
+
 Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query (Data Cleaning)
@@ -35,6 +36,7 @@ KPI_Summary – Monthly aggregated KPIs
 Funnel_Data – Marketing funnel stages and user drop-off
 
 📈 Key Features
+
 🔹 KPI Dashboard
 Total Reach: 27.7M
 Total Likes: 2.4M
@@ -64,6 +66,7 @@ Brand filter (dropdown)
 Drill-through for brand-level analysis
 
 📊 Key Insights
+
 🔹 Engagement Insights
 Facebook & Twitter show highest engagement rates (~12.7–12.8%)
 YouTube has highest reach but lower engagement (passive audience)
@@ -82,6 +85,7 @@ Higher ad spend ≠ higher engagement
 Content quality & targeting are key differentiators
 
 🚀 Conclusion
+
 This dashboard demonstrates how data-driven decision-making can improve social media strategy by identifying:
 High-performing platforms
 Audience sentiment trends
@@ -89,6 +93,7 @@ Marketing funnel bottlenecks
 Competitive positioning
 
 📌 Future Improvements
+
 Real-time API integration (Twitter/Instagram)
 Predictive analytics using ML
 Advanced audience segmentation
